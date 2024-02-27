@@ -9,7 +9,7 @@ The journey begins with the splash, login, and authorization screens. Users init
 ![screen-1](https://github.com/jmmdev/tournament-manager/assets/100143610/983676aa-6643-452b-bab3-b2002fc27aaf)
 
 <br></br>
-Upon successful authentication, users are greeted with a curated list of tournaments. Presently, the list is tailored to showcase tournaments where users hold "admin" privileges, encompassing ownership, administration, or reporting roles. Future iterations will broaden accessibility, necessitating adjustments to the filtering mechanism.
+Upon successful authentication, users are greeted with a list of tournaments. Presently, the list is filtered to showcase tournaments where users hold "admin" privileges, those being ownership, administration, or reporting roles. Future iterations will broaden accessibility to more casual features so the filter will no longer be needed.
 <br></br>
 
 ![screen-2](https://github.com/jmmdev/tournament-manager/assets/100143610/3a086f39-461c-4809-b2a3-50a9b8fcf529)
@@ -21,13 +21,13 @@ From there, users navigate through the tournament's events, phases, and groups a
 ![screen-2](https://github.com/jmmdev/tournament-manager/assets/100143610/d2d6ebd2-9106-40ae-a02f-6ccf6acd5cee)
 
 <br></br>
-Within the sets view, users access multiple functionalities, including marking sets as "in progress," seamless transition to external tools via web browser integration, and streamlined match result reporting. The reporting interface offers two modes: quick report and detailed report, designed for ease of use and familiarity.
+Within the sets view, users access multiple functionalities, including marking sets as "in progress," access to start.gg aditional tools via web browser, and match result reporting. The reporting interface offers two modes: quick report and detailed report, with designs imitating those in the website version.
 <br></br>
 
 ![screen-4](https://github.com/jmmdev/tournament-manager/assets/100143610/c3ba8f36-17a8-4499-a36f-55dddc9d14f8) 
 
 <br></br>
-Upon reporting, completed sets are dynamically updated within the list, ensuring clarity and facilitating navigation. By default, completed sets are hidden to optimize display space, with an option provided to toggle visibility as needed. Notably, modifying completed sets necessitates manual intervention via the web interface due to API limitations.
+Upon reporting, completed sets are dynamically updated within the list, ensuring clarity and facilitating navigation. By default, these sets are hidden to optimize display space, with an option provided to toggle visibility as needed. Notably, modifying completed sets requires intervention via the web interface due to API limitations.
 <br></br>
 
 ![screen-5](https://github.com/jmmdev/tournament-manager/assets/100143610/876042fa-1d4b-43fc-9dff-9ce8a316fe9d)
